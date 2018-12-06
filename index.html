@@ -23,13 +23,26 @@
     		align-items: center;
     		justify-content: center;
 	}
+	.wrapper {
+		position: relative;
+		padding-bottom: 56.25%;
+		padding-top: 0px;
+		height: 0;
+		margin-bottom: 20px;
+	}
 	iframe {
-		max-width:100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100% !important;
+		height: 100% !important;
 	}
 	</style>
 </head>
 <body>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMQ-zdi0SZ0kzB6hrxmB1P5mkOo5dzmqT673ITpJwT2K0wf1VMFCdf-vvNZdghEgYCjhrPFZJpvhrs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<div class="wrapper">
+		<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMQ-zdi0SZ0kzB6hrxmB1P5mkOo5dzmqT673ITpJwT2K0wf1VMFCdf-vvNZdghEgYCjhrPFZJpvhrs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	</div>
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63707-9"></script>
