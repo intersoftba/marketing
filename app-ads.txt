@@ -59,3 +59,4 @@ indexexchange.com,192410,RESELLER,50b1c356f2c5c8fc
 admanmedia.com,726,RESELLER
 beachfront.com,14804,RESELLER,e2541279e8e2ca4d
 improvedigital.com,2050,RESELLER
+mintegral.com,10043,RESELLER,0aeed750c80d6423
