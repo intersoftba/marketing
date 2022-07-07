@@ -63,3 +63,6 @@ mintegral.com,10043,RESELLER,0aeed750c80d6423
 
 triplelift.com, 10518, DIRECT, 6c33edb13117fd86
 triplelift.com, 10518-EB, DIRECT, 6c33edb13117fd86
+
+sonobi.com,24f603762e,RESELLER,d1a215d9eb5aee9e
+pubmatic.com,160080,RESELLER,5d62403b186f2ace
