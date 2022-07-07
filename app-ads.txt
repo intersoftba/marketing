@@ -60,3 +60,6 @@ admanmedia.com,726,RESELLER
 beachfront.com,14804,RESELLER,e2541279e8e2ca4d
 improvedigital.com,2050,RESELLER
 mintegral.com,10043,RESELLER,0aeed750c80d6423
+
+triplelift.com, 10518, DIRECT, 6c33edb13117fd86
+triplelift.com, 10518-EB, DIRECT, 6c33edb13117fd86
