@@ -69,3 +69,5 @@ pubmatic.com,160080,RESELLER,5d62403b186f2ace
 
 indexexchange.com, 200398, DIRECT, 50b1c356f2c5c8fc
 
+pubmatic.com, 160724, DIRECT, 5d62403b186f2ace
+
